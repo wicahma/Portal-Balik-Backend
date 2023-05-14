@@ -1,0 +1,4 @@
+/node_modules
+.env
+.fuse_*
+public/images/*
